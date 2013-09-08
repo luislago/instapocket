@@ -1,25 +1,25 @@
-require 'rubygems' #usa gems
-require 'nokogiri' #usa a gem para parsar o html
-require "open-uri" #usa a gem para puxar links
+require 'rubygems' 
+require 'nokogiri' #gem to parse html
+require "open-uri" 
 
-puts "URL: " #pede para botar a link
-remote_full_url = gets.chomp #prompt para botar a link
-puts "Nome do ficheiro:" #pede para botar o nome que quero dar ao ficheiro
-local_file_name = gets.chomp #prompt para botar nome do ficheiro
-remote_data = Nokogiri::HTML(open(remote_full_url))   #para fazer o parse da link
+puts "URL: "
+remote_full_url = gets.chomp #link to be parsed
+puts "File name" 
+local_file_name = gets.chomp #the name of the file where the text will be copied
+remote_data = Nokogiri::HTML(open(remote_full_url))   
 
-my_local_filename = local_file_name + ".txt" # para criar um ficheiro com o nome que meti na prompt e com extensão txt
-my_local_file = open(my_local_filename, "w") # cria o ficheiro que mencionei na linha anterior e permite escrever lá
-
-my_local_file.write(remote_full_url) #escreve o nome da link no ficheiro
+my_local_filename = local_file_name + ".txt" # 
+my_local_file = open(my_local_filename, "w") # creates the .txt file where the text will be copied
+my_local_file.write(remote_full_url) #copies the URL to the file
+my_local_file.write("
+	
+	") #paragraph
+my_local_file.write(remote_data.css("title").text) #copies the html <title> tag to the file
 my_local_file.write("
 	
 	")
-my_local_file.write(remote_data.css("title").text) #escreve o título no ficheiro
-my_local_file.write("
-	
-	")
-my_local_file.write(remote_data.css("p", "a").text) #seleciona o texto <p> e os <a> do html da link e escreve no ficheiro criado
-remote_data.css('p').css("a").each{|link| puts "#{link.text}\t#{link['href']}"} #lista no terminal as links em <p>
-my_local_file.close #fecha o ficheiro. 
-puts "Terminado" #para saber que está feito
+my_local_file.write(remote_data.css("p", "a").text) #copies all the text in the <p> tag, including the text in <a> tags
+my_local_file.close #closes the file
+remote_data.css('p').css("a").each{|link| puts "#{link.text}\t#{link['href']}"} #prints a list of hyperlinks included in the text on the comand line
+ 
+puts "Done"
