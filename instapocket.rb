@@ -11,7 +11,15 @@ remote_data = Nokogiri::HTML(open(remote_full_url))   #para fazer o parse da lin
 my_local_filename = local_file_name + ".txt" # para criar um ficheiro com o nome que meti na prompt e com extensão txt
 my_local_file = open(my_local_filename, "w") # cria o ficheiro que mencionei na linha anterior e permite escrever lá
 
+my_local_file.write(remote_full_url) #escreve o nome da link no ficheiro
+my_local_file.write("
+	
+	")
+my_local_file.write(remote_data.css("title").text) #escreve o título no ficheiro
+my_local_file.write("
+	
+	")
 my_local_file.write(remote_data.css("p", "a").text) #seleciona o texto <p> e os <a> do html da link e escreve no ficheiro criado
-my_local_file.close #fecha o ficheiro.
-remote_data.css("a").each{|link| puts "#{link.text}\t#{link['href']}"} 
+remote_data.css('p').css("a").each{|link| puts "#{link.text}\t#{link['href']}"} #lista no terminal as links em <p>
+my_local_file.close #fecha o ficheiro. 
 puts "Terminado" #para saber que está feito
