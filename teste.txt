@@ -1,0 +1,679 @@
+
+ 
+
+ 
+ 
+   
+   
+   
+   
+  
+   
+  
+    
+
+        
+    
+     
+   
+   
+   
+   
+   Preços 
+   
+   
+   
+   
+   
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});var K2SitePath = '/';window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(840000); });window.addEvent((window.webkit) ? 'load' : 'domready', function() {
+				window.rokajaxsearch = new RokAjaxSearch({
+					'results': 'Results',
+					'close': '',
+					'websearch': 0,
+					'blogsearch': 0,
+					'imagesearch': 0,
+					'videosearch': 0,
+					'imagesize': 'MEDIUM',
+					'safesearch': 'MODERATE',
+					'search': 'Search...',
+					'readmore': 'Read more...',
+					'noresults': 'No results',
+					'advsearch': 'Advanced search',
+					'page': 'Page',
+					'page_of': 'of',
+					'searchlink': 'http://info.airmenu.com/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'http://info.airmenu.com/index.php?option=com_search&amp;view=search',
+					'uribase': 'http://info.airmenu.com/',
+					'limit': '10',
+					'perpage': '3',
+					'ordering': 'newest',
+					'phrase': 'any',
+					'hidedivs': '',
+					'includelink': 1,
+					'viewall': 'View all results',
+					'estimated': 'estimated',
+					'showestimated': 1,
+					'showpagination': 1,
+					'showcategory': 1,
+					'showreadmore': 1,
+					'showdescription': 1
+				});
+			});
+   
+
+
+   
+   
+   
+   
+   
+   
+   
+  
+   
+       
+    
+   
+  
+   
+       
+     
+  
+
+   
+   
+   
+   
+   
+
+    
+  
+   
+     
+   
+   
+     
+   
+  
+   
+    
+    
+    
+  
+   
+     
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31608184-3']);
+  _gaq.push(['_setDomainName','airmenu.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+   
+     
+
+ 
+
+ 
+
+   
+ 
+  
+  
+   
+     
+  
+   
+   
+     
+       
+       
+          
+       
+       
+
+             
+             
+         
+ 
+	 
+		 
+	 
+	 
+	 
+	 
+	 
+	 
+
+	
+	  
+ 
+  
+  
+
+	 
+						 
+			 
+							 						 
+			 
+								 
+			 
+							 						 
+			 
+								 
+			 
+							 						 
+			 
+				 
+
+ 
+
+       
+             
+      
+             
+             
+      
+    
+   
+
+   
+    
+     
+        
+       
+               Open/Close 
+             
+
+       
+             
+      
+             
+             
+        
+
+ 
+	 
+  &nbsp;  
+  &nbsp;  
+  &nbsp;  
+   Login  
+  
+
+       
+             
+      
+       
+      				 
+			 
+			 Menu 
+							 
+		 	
+	
+     
+
+   
+   
+  
+  
+     
+           
+               
+           
+            		 
+						
+
+
+
+
+	
+
+ 
+		 
+	 
+		 Utilizador  
+		 
+	 
+	 
+		 Senha  
+		 
+	 
+	 
+		  
+		 
+	 
+	 -->
+	 
+		 
+		 
+		 
+		 
+		 		 
+			Perdeu a senha?		 
+		 
+					 -->
+	</div
+>
+	 
+
+	
+ 
+
+
+		 
+	
+           
+         Open/Close  -->
+         
+       
+           
+
+     
+           
+  
+   
+       
+
+   
+       
+  
+   
+     
+  
+     
+   
+     
+        
+            
+       
+
+        
+         
+          
+          
+ 
+ 
+          
+            
+          
+           
+
+
+
+	
+	
+
+
+	
+
+			 
+ 
+ Planos de subscri&ccedil;&atilde;o 
+ Os nossos planos s&atilde;o feitos de acordo com as suas necessidades. Consulte a nossa tabela em baixo. Para informa&ccedil;&atilde;o sobre pre&ccedil;os,   contacte-nos!   
+ 
+ 
+ 
+ 
+ 
+ 
+  Planos   Hotel Premium    Ativa&ccedil;&atilde;o &euro;2.000 / Mensalidade &euro;199&nbsp;        Hotel Excellence    Ativa&ccedil;&atilde;o &euro;750 / Mensalidade &euro;300&nbsp;    Restaurante    Ativa&ccedil;&atilde;o &euro;1.000 / Mensalidade &euro;69&nbsp;    Caff&eacute;   Ativa&ccedil;&atilde;o &euro;100 / Mensalidade &euro;19&nbsp;   
+ 
+ 
+ 
+ M&aacute;ximo n&uacute;mero de pedidos 
+ 10.000&nbsp; 
+ 8.000&nbsp; 
+ 5.000 
+ 2.000 
+ 
+ 
+  Pontos de aquisi&ccedil;&atilde;o de dados  
+ &nbsp;300 
+ 200 
+  100  
+ 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Planos   Hotel Premium    Ativa&ccedil;&atilde;o R$6.000 / Mensalidade R$1.000&nbsp;         Hotel Excellence    Ativa&ccedil;&atilde;o R$2.500 / Mensalidade R$300&nbsp;    Restaurante    Ativa&ccedil;&atilde;o R$1.000 / Mensalidade R$250&nbsp;    Caff&eacute;   Ativa&ccedil;&atilde;o R$500 / Mensalidade R$150&nbsp;   
+ 
+ 
+ 
+ M&aacute;ximo n&uacute;mero de pedidos 
+ 10.000&nbsp; 
+ 8.000&nbsp; 
+ 5.000 
+ 2.000 
+ 
+ 
+  Pontos de aquisi&ccedil;&atilde;o de dados  
+ &nbsp;300 
+ 200 
+  100  
+ 30 
+ 
+ 
+ 
+ *Todos os pre&ccedil;os incluem IVA.&nbsp; 
+ 
+ 
+ 
+ 
+ 
+ 
+  Planos   Ocasional    US$19&nbsp;         Base    US$19&nbsp;  por m&ecirc;s      Pro+    US$49&nbsp;  por m&ecirc;s    Premium*  Contacte-nos    
+ 
+ 
+ 
+ M&aacute;ximo n&uacute;mero de pedidos 
+ 300&nbsp; 
+ 555&nbsp; 
+ 7.500 
+ Sem limite 
+ 
+ 
+  Pre&ccedil;o por pedido  
+ US$ 0,063 &nbsp;    
+  US$  0,014  
+  US$  0,007  
+  -  
+ 
+ 
+  Pre&ccedil;o por SMS  
+ US$ 0,063 &nbsp;    
+  US$  0,103  
+  US$  0,052  
+  -  
+ 
+ 
+  Activos QR Codes&nbsp;  
+ &nbsp;120 Max. 
+ 60 Max. 
+  120 Max.  
+ 100 Min. 
+ 
+ 
+ 
+ *Todos os pre&ccedil;os incluem IVA.&nbsp; 
+ 
+ 
+ 
+ 
+ 
+ 
+  Planos   Ocasional    &pound;19&nbsp;         Base    &pound;19&nbsp;  por m&ecirc;s      Pro+    &pound;49&nbsp;  por m&ecirc;s    Premium*  Contacte-nos    
+ 
+ 
+ 
+ M&aacute;ximo n&uacute;mero de pedidos 
+ 650&nbsp; 
+ 1000&nbsp; 
+ 10.000 
+ Sem limite 
+ 
+ 
+  Pre&ccedil;o por pedido  
+ &pound; 0,029 &nbsp;    
+  &pound;  0,019  
+  &pound;  0,004  
+  -  
+ 
+ 
+  Pre&ccedil;o por SMS  
+ &pound; 0,029 &nbsp;    
+  &pound;  0,057  
+  &pound;  0,031  
+  -  
+ 
+ 
+  Activos QR Codes&nbsp;  
+ &nbsp;120 Max. 
+ 60 Max. 
+  120 Max.  
+ 100 Min. 
+ 
+ 
+ 
+ *Todos os pre&ccedil;os incluem IVA.&nbsp; 
+ 
+ 
+ // <![CDATA[
+var currency = {};
+currency.AD="EUR";
+currency.AT="EUR";
+currency.BE="EUR";
+currency.FI="EUR";
+currency.FR="EUR";
+currency.GF="EUR";
+currency.TF="EUR";
+currency.DE="EUR";
+currency.GR="EUR";
+currency.GP="EUR";
+currency.VA="EUR";
+currency.IE="EUR";
+currency.IT="EUR";
+currency.LU="EUR";
+currency.MQ="EUR";
+currency.YT="EUR";
+currency.MC="EUR";
+currency.NL="EUR";
+currency.PT="EUR";
+currency.RE="EUR";
+currency.PM="EUR";
+currency.SM="EUR";
+currency.ES="EUR";
+currency.CS="EUR";
+currency.GB="GBP";
+currency.BR="BRL";
+var vars = {};
+
+function setCookie(c_name,value,exdays)
+{
+        var exdate=new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+        document.cookie=c_name + "=" + c_value;
+}
+
+function getCookie(c_name)
+{
+    var c_value = document.cookie;
+    var c_start = c_value.indexOf(" " + c_name + "=");
+    if (c_start == -1)
+    {
+        c_start = c_value.indexOf(c_name + "=");
+    }
+    if (c_start == -1)
+    {
+        c_value = null;
+    }
+    else
+    {
+        c_start = c_value.indexOf("=", c_start) + 1;
+        var c_end = c_value.indexOf(";", c_start);
+        if (c_end == -1)
+        {
+            c_end = c_value.length;
+        }
+        c_value = unescape(c_value.substring(c_start,c_end));
+    }
+    return c_value;
+}
+
+function getCurrentCurrency(answer){
+	var countryCode = answer["countryCode"];
+        if( currency[countryCode] === undefined ){
+              if(currency[getCookie("countryCode")] === undefined){
+                  return "USD";
+              }
+              return currency[getCookie("countryCode")];
+        }
+        setCookie("countryCode", countryCode, 365);
+        return currency[countryCode];  
+}
+
+var showCurrencyPrices = function(answer){
+	var priceTable = document.getElementById("table_" + getCurrentCurrency(answer));
+	priceTable.style.display = "block";
+}
+
+function getUrlVars() {
+    vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+
+function getTableByGeolocation() {
+    getUrlVars();
+    if( vars["countryCode"] === undefined ){
+	    try {
+	      script = document.createElement('script');
+	      script.src = "http://api.ipinfodb.com/v3/ip-country/?format=json&key=e55e3bfbb5d51c7b41da434499951be78d2aac0c9cf0d05c27df6175a39068d5&callback=showCurrencyPrices";
+	      document.body.appendChild(script);
+	    } catch(err) {
+	    	showCurrencyPrices("");
+	    }
+    }else{
+        showCurrencyPrices(vars);
+    }
+}
+
+getTableByGeolocation();
+// ]]> 
+		 
+
+
+         
+        
+               
+
+           
+   
+   
+  
+   
+       
+
+   
+       
+      -->
+            	 
+		 
+							 AIRMENU | Informação 
+						 
+							 
+		 
+     
+	
+
+                     	 
+		 
+							 Empresas | Soluções para Estabelecimentos 
+						 
+				
+ 
+  Como Funciona?    Especificações    Negócios    Loja    Preços    Cases    Demo   
+			 
+		 
+     
+	
+
+                        	 
+		 
+						 
+				 
+   
+			 
+		 
+     
+	
+
+           -->
+   
+     
+
+   
+     
+     
+      
+ 
+ Airmenu     Preços  
+
+             
+             
+         
+ 
+  
+  
+  
+ 
+  
+ 
+       
+             
+       
+         &nbsp; 
+             
+     
+   
+     
+  
+   
+     
+     
+       
+        
+ 
+	Copyright &#169; 2013 Airmenu. Todos os direitos reservados. Design By:  emake  
+	
+	
+ 
+
+       
+       
+        
+       
+     
+   
+     
+  
+ 
+ 
+    
+   
+ 
