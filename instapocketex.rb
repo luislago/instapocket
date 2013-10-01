@@ -6,7 +6,7 @@ original = gets.chomp #to insert the original site we want to copy and change
 puts "new file name"
 name = gets.chomp
 
-input = File.open(open(original)) #opens the original site
+input = File.open(original) #opens the original site
 indata = input.read() #reads the original site
 
 
