@@ -1,0 +1,190 @@
+http://pando.com/2013/12/16/googles-for-profit-surveillance-problem/
+	
+	Google’s for-profit surveillance problem | PandoDaily
+	
+	
+		
+		
+		By Yasha Levine 
+				On December 16, 2013“We know where you are. We know where you’ve been. We can more or less know what you’re thinking about.”“Your digital identity will live forever… because there’s no delete button.”—Eric SchmidtEarly last week, some of the biggest names in Silicon Valley announced that they had gotten together to form a new forward-thinking organization dedicated to promoting government surveillance reform in the name of “free expression” and “privacy.”The charade should have been laughed at and mocked — after all, these same companies feed on privacy for profit, and unfettered surveillance is their stock and trade. Instead, it was met with cheers and fanfare from reporters and privacy and tech experts alike. “Finally!” people cried, Silicon Valley has grown up and matured enough to help society tackle the biggest problem of our age: the runaway power of the modern surveillance state.The Guardian described the tech companies’ plan as “radical,” and predicted it would “end many of the current programs through which governments spy on citizens at home and abroad.” Laura W. Murphy, Director of ACLU’s DC Legislative Office, published an impassioned blog post praising tech giants for urging President Barack Obama and Congress to enact comprehensive reform of government surveillance. Silicon Valley booster Jeff Jarvis could hardly contain his glee. “Bravo,” he yelped. “The companies came down at last on the side of citizens over spies.” And then added:Spying is bad for the internet; what’s bad for the internet is bad for Silicon Valley; and — to reverse the old General Motors saw — what’s bad for Silicon Valley is bad for America.But while leading tech and privacy experts like Jarvis slobber over Silicon Valley megacorps and praise their heroic stand against oppressive government surveillance, most still don’t seem to mind that these same tech billionaires run vast private sector surveillance operations of their own: hi-tech spying operations that vacuum up private information and use it to compile detailed dossiers on hundreds of millions of people around the world — and that’s on top of their work colluding and contracting with government intelligence agencies.If you step back and look at the bigger picture, it’s not hard to see that Silicon Valley runs on for-profit surveillance, and that it dwarfs anything being run by the NSA.Last week, I wrote about Google’s Street View program, and how after a series of investigations in the US and Europe, we learned that Google had used its Street View cars to carry out a covert — and certainly illegal — espionage operation on a global scale, siphoning loads of personally identifiable data from people’s Wi-Fi connections all across the world. Emails, medical records, love notes, passwords, the whole works — anything that wasn’t encrypted was fair game. It was all part of the original program design: Google had equipped its Street View cars with surveillance gear designed to intercept and vacuum up all the wireless network communication data that crossed their path. An FCC investigation showing that the company knowingly deployed Street View’s surveillance program, and then had analyzed and integrated the data that it had intercepted.Most disturbingly, when its Street View surveillance program was uncovered by regulators, Google pulled every crisis management trick in the book to confuse investors, dodge questions, avoid scrutiny, and prevent the public from finding out the truth. The company’s behavior got so bad that the FCC fined it for obstruction of justice.The investigation in Street View uncovered a dark side to Google. But as alarming as it was, Google’s Street View wiretapping scheme was just a tiny experimental program compared Google’s bread and butter: a massive surveillance operation that intercepts and analyzes terabytes of global Internet traffic every day, and then uses that data to build and update complex psychological profiles on hundreds of millions of people all over the world — all of it in real time. You’ve heard about this program. You probably interact with it every day. You call it Gmail.Google launched Gmail in 2004. It was the company’s first major “log in” service and was aimed at poaching email users from Microsoft and Yahoo. To do that, Google offered one gigabyte of free storage space standard with every account. It was an insane amount of data at the time — at least several hundred times more space than what was being offered by Yahoo or Hotmail — and people signed up en masse. At one point, Gmail’s limited pre-public release invites were so desirable that at one point they fetched over $150 on eBay.To tech reporters Gmail’s free email service was nothing short of revolutionary. New York Times tech columnist David Pogue wrote: “One gigabyte changes everything. You no longer live in terror that somebody will send you a photo, thereby exceeding your two-megabyte limit and making all subsequent messages bounce back to their senders.”And what about the fact that Gmail scanned your email correspondence to deliver targeted ads?Well, what of it?Gmail users handed over all their personal correspondence to Google, giving the company to right to scan, analyze, and retain in perpetuity their correspondence in return for a gigabyte of gigabyte of storage, which even at that early stage already cost Google only $2 per gigabyte per year.Selling the contents of our private and business life to a for-profit corporation in return for half a Big Mac a year? What a steal!You’d be hard pressed to find a bum who’d sell out to Google that cheap. But most mainstream tech journalist weren’t that scrupulous, and lined up to boost Gmail to the public.“The only population likely not to be delighted by Gmail are those still uncomfortable with those computer-generated ads. Those people are free to ignore or even bad-mouth Gmail, but they shouldn’t try to stop Google from offering Gmail to the rest of us. We know a good thing when we see it,” wrote Pogue in 2004.But not everyone was as excited as Mr. Pogue.Several privacy groups, including the Electronic Privacy Information Center, were alarmed by Gmail’s vast potential for privacy abuse. In particular, EPIC was concerned that Google was not restricting its email scanning activities solely to its registered user base, but was intercepting and analyzing the private communication of anyone who emailed with a Gmail user:“Gmail violates the privacy rights of non-subscribers. Non-subscribers who e-mail a Gmail user have ‘content extraction’ performed on their e-mail even though they have not consented to have their communications monitored, nor may they even be aware that their communications are being analyzed,” EPIC explained at the time. The organization pointed out that this practice almost certainly violates California wiretapping statues — which expressly criminalizes the interception of electronic communication without consent of all parties involved.What spooked EPIC even more: Google was not simply scanning people’s emails for advertising keywords, but had developed underlying technology to compile sophisticated dossiers of everyone who came through its email system. All communication was subject to deep linguistic analysis; conversations were parsed for keywords, meaning and even tone; individuals were matched to real identities using contact information stored in a user’s Gmail address book; attached documents were scraped for intel — that info was then cross-referenced with previous email interactions and combined with stuff gleamed from other Google services, as well as third-party sources…Here’s are some of the things that Google would use to construct its profiles, gleamed from two patents company filed prior to launching its Gmail service:To EPIC, Google’s interception and use of such detailed personal information was clearly violation of California law, and the organization called on California’s Attorney General promised to investigate Google’s Gmail service. The Attorney General promise to look into the matter, but nothing much happened.Meanwhile, Gmail’s user base continued to rocket. As of this month, there are something like 425 million active users around the world using email services. Individuals, schools, universities, companies, government employees, non-profits — and it’s not just Gmail anymore.After its runaway success with Gmail, Google aggressively expanded its online presence, buying up smaller tech companies and deploying a staggering number of services and apps. In just a few years, Google had suddenly become ubiquitous, inserting themselves into almost every aspect of our lives: We search through Google, browse the Web through Google, write in Google, store our files in Google and use Google to drive and take public transport. Hell, even our mobile phones run on Google.All these services might appear disparate and unconnected. To the uninitiated, Google’s offering of free services — from email, to amazing mobile maps, to a powerful replacement for Microsoft Office — might seem like charity. Why give away this stuff for free? But to think that way is to miss the fundamental purpose that Google serves and why it can generate nearly $20 billion in profits a year.The Google services and apps that we interact with on a daily basis aren’t the company’s main product: They are the harvesting machines that dig up and process the stuff that Google really sells: for-profit intelligence.Google isn’t a traditional Internet service company. It isn’t even an advertising company. Google is a whole new type of beast: a global advertising-intelligence company that tries to funnel as much user activity in the real and online world through its services in order to track, analyze and profile us: it tracks as much of our daily lives as possible — who we are, what we do, what we like, where we go, who we talk to, what we think about, what we’re interested in — all those things are seized, packaged, commodified and sold on the market — at this point, most of the business comes from matching the right ad to the right eyeballs. But who knows how the massive database Google’s compiling on all of us will be used in the future.No wonder that when Google first rolled out Gmail in 2004, cofounder Larry Page refused to rule out that the company would never combine people’s search and browsing history with their Gmail account profiles: “It might be really useful for us to know that information. I’d hate to rule anything like that out.” Indeed it was. Profitable, too.It’s been almost a decade since Google launched its Gmail service, but the fundamental questions about the legality of the company’s surveillance operations first posed by EPIC have not been resolved.Indeed, a class action lawsuit currently winding its way through California federal court system shows that we’ve not moved an inch.The complaint — a consolidation of six separate class action lawsuits that had been filed against Google in California, Florida, Illinois, Maryland and Pennsylvania — accuses Google of illegally intercepting, reading and profiting off people’s private correspondence without compensation. The lawsuit directly challenges Google’s legal right to indiscriminately vacuum up people’s data without clear consent, and just might be the biggest threat Google has ever faced.Here’s how the New York Times described the case:Wiretapping is typically the stuff of spy dramas and shady criminal escapades. But now, one of the world’s biggest Web companies, Google, must defend itself against accusations that it is illegally wiretapping in the course of its everyday business — gathering data about Internet users and showing them related ads.…The Gmail case involves Google’s practice of automatically scanning e-mail messages and showing ads based on the contents of the e-mails. The plaintiffs include voluntary Gmail users, people who have to use Gmail as part of an educational institution and non-Gmail users whose messages were received by a Gmail user. They say the scanning of the messages violates state and federal antiwiretapping laws.Google has aggressively fought the lawsuit. It first convinced a judge to put it under seal — which redacted most of the complaint and made it unavailable to public scrutiny — and then made a series of disingenuous arguments in an attempt to get the get the lawsuit preemptively dismissed. Google’s attorneys didn’t dispute its for-profit surveillance activities. What they claimed was that intercepting and analyzing electronic communication, and using that information to build sophisticated psychological profiles, was no different than scanning emails for viruses or spam. And then they made a stunning admission, arguing that as far as Google saw it, people who used Internet services for communication had “no legitimate expectation of privacy” — and thus anyone who emailed with Gmail users had given “implied consent” for Google to intercept and analyze their email exchange.No expectation of privacy? Implied consent for surveillance?Google’s claims were transparently disingenuous, and Judge Lucy Koh rejected them out of hand and allowed the lawsuit to proceed.Unfortunately, it’s difficult to comment on or analyze the contents of the class action lawsuit filed against Google, as the company redacted just about all of it. One thing is clear: the complaint goes beyond simple wiretapping and brings into question an even bigger concern: Who owns the digital personal information about our lives — our thoughts, ideas, interactions, personal secrets, preferences, desires and hopes? And can all these things be seized bit by bit, analyzed, packaged, commodified and then bought and sold on the market like any other good? Can Google do that? What rights do we have over our inner lives? It’s scary and crazy. Especially when you think kids born today: Their entire lives will be digitally surveilled, recorded, analyzed, stored somewhere and then passed around from company to company. What happens to that information?What happens to all this data in the future should be of serious concern. Not only because, with the right warrant (or in many cases without) the data is available to law enforcement. But also because in the unregulated hands of Google, our aggregated psychological profiles are an extremely valuable asset that could end us used for almost anything.EPIC points out that Google reservers the right to “transfer all of the information, including any profiles created, if and when it is merged or sold.” How do we know that information won’t end up in some private background check database that’ll be available to your boss? How do we know this information won’t be hacked or stolen and won’t fall into the hands of scammers and repressive dictators?The answer is: We don’t. And these tech companies would rather keep us in the dark and not caring.Google’s corporate leadership understands that increased privacy regulations could torpedo its entire business model and the company takes quite a lot of space on its SEC filing disclosing the dangers to its investors:Privacy concerns relating to elements of our technology could damage our reputation and deter current and potential users from using our products and services…We also face risks from legislation that could be passed in the future. For example, there is a risk that state legislatures will attempt to regulate the automated scanning of email messages in ways that interfere with our Gmail free advertising-supported web mail service. Any such legislation could make it more difficult for us to operate or could prohibit the aspects of our Gmail service that uses computers to match advertisements to the content of a user’s email message when email messages are viewed using the service. This could prevent us from implementing the Gmail service in any affected states and impair our ability to compete in the email services market…Former Google CEO Eric Schmidt has not been shy about his company’s views on Internet privacy: People don’t have any, nor should they expect it. “If you have something that you don’t want anyone to know, maybe you shouldn’t be doing it in the first place,” he infamously told CNBC in 2009. And he’s right. Because true Internet privacy and real surveillance reform would be the end of Google.And not just Google, but nearly every major consumer Silicon Valley company — all of them feed people’s personal data one way or another and depend on for-profit surveillance for survival.Which brings me to Silicon Valley’s “Reform Government Surveillance” project.The fact that the biggest, most data-hungry companies in Silicon Valley joined up in a cynical effort to shift attention away from their own for-profit surveillance operations and blame it all on big bad government is to be expected. What’s surprising is just how many supposed journalists and so-called privacy advocates fell for it.Three sources have told journalism outlet The Desk that Twitter is working on an edit feature so people could make changes to tweets after publishing. [Source: The Desk]
+								December 16, 2013
+			Google is testing its own smart thermostats that would help people save energy. [Source: The Verge]
+								December 16, 2013
+			Big Dog and Cheetah are robots that Google now owns after acquiring Boston Dynamics. [Source: Reuters]
+								December 16, 2013
+			
+									By Michael Carney
+								December 16, 2013
+			Craig Berkman, a former candidate for Oregon governor, lied to investors about having Facebook IPO share access, took their money, and used it to pay off his debts. He was just sentenced to six years in prison. [Source: Reuters]
+								December 16, 2013
+			Pact, which encourages people to work out by charging them when they don’t, has raised  $1.55 million from Khosla Ventures and Max Levchin. [Source: AllThingsD]
+								December 16, 2013
+			
+									By Carmel DeAmicis
+								December 16, 2013
+			Yahoo has extended its partnership with NBC so that it can livestream the 2014 Winter Olympics. [Source: TheNextWeb]
+								December 16, 2013
+			According to Italian newspapers, Amazon bought Gopago, which lets people pay for things via a mobile app before picking them up at the store. [Source: TechCrunch]
+								December 16, 2013
+			
+									By Cale Guthrie Weissman
+								December 16, 2013
+			
+									By Nathaniel Mott
+								December 16, 2013
+			According to NKNews, North Korea just deleted 350,000 articles from the Korean Central News Agency, its state-run news website. It’s reportedly wiped out virtually every article published prior to October 2013. [Source: NKNews via Betabeat]
+								December 16, 2013
+			The AP reports that British prosecutors say they’ll file charges against 23-year-old Isabella Sorley and 25-year-old John Nimmo for “improper use of a communications network” after they sent threatening and offensive tweets to a woman named Caroline Criado-Perez. Criado-Perez had successfully campaigned to put Jane Austen on the ten-pound bill. [Source: AP via ABC News]
+								December 16, 2013
+			
+									By Chris Long
+								December 16, 2013
+			Today, Sprint announced it’s expanding its faster LTE network to 70 new markets including Orlando, San Diego, and Louisville. [Source: Verge]
+								December 16, 2013
+			Norway’s government announced that it will not treat bitcoin as a real currency. Instead it will consider it an “asset,” and is therefore subject to capital gains tax. [Source: Marketwatch]
+								December 16, 2013
+			AllThingsD reports that Blaise Agüera y Arcas, a top maps and augmented reality engineer at Microsoft is jumping ship for Google. [Source: AllThingsD]
+								December 16, 2013
+			A federal judge ruled today that the NSA’s collection of Americans’ phone records in bulk likely violates the 4th Amendment of the US Constitution, calling it “almost Orwellian.” [Source: Guardian]
+								December 16, 2013
+			
+									By Carmel DeAmicis
+								December 16, 2013
+			Intel has announced that it has bought Mindspeed Technologies. It says that it will use the acquisition to help boost its signal processing. [Source: AllThingsD]
+								December 16, 2013
+			Watsi, a not-for-profit healthcare crowdfunding platform, has received a $1.5 million donation from video game company Humble Bundle. Watsi has raised $2.2 million thus far. [Source: The Next Web]
+								December 16, 2013
+			Viggle, a startup that offers rewards to TV viewers, has bought the publisher Wetpaint. The deal reportedly went for $30 million in cash and stock. [Source: AllThingsD]
+								December 16, 2013
+			
+									By James Robinson
+								December 16, 2013
+			iTunes has announced that Beyoncé’s newly released self-tiled album has sold 828,773 copies over the last three days. That makes it the fastest-selling album in iTunes’ history. [Source: The Verge]
+								December 16, 2013
+			“We are continuing to talk with potential partners about Patch and there is no change in course or direction from what we have discussed as a team. Patch gets and will get a lot of media coverage, but we will keep you updated as we walk through the partner talks. The most important thing to focus on is the service we are providing to millions of local consumers and customers.” — Patch's COO Leigh Zarelli Lewis, via a leaked memo referring to recent reports that Patch is shutting down
+				December 16, 2013
+			
+									By Michael Carney
+								December 16, 2013
+			
+									By Carmel DeAmicis
+								December 16, 2013
+			
+									By Cale Guthrie Weissman
+								December 16, 2013
+			
+									By Nathaniel Mott
+								December 16, 2013
+			
+									By Chris Long
+								December 16, 2013
+			
+									By Carmel DeAmicis
+								December 16, 2013
+			
+									By James Robinson
+								December 16, 2013
+			
+									By Yasha Levine
+								December 16, 2013
+			
+									By Nathaniel Mott
+								December 16, 2013
+			
+									By Michael Carney
+								December 16, 2013
+			
+									By David Sirota
+								December 16, 2013
+			
+									By Hamish McKenzie
+								December 16, 2013
+			
+									By Erin Griffith
+								December 16, 2013
+			
+									By Hugh Reynolds
+								December 15, 2013
+			
+									By Mark Ames
+								December 14, 2013
+			
+									By Nathaniel Mott
+								December 13, 2013
+			
+									By Erin Griffith
+								December 13, 2013
+			
+									By Carmel DeAmicis
+								December 13, 2013
+			
+									By Ed Roman
+								December 13, 2013
+			
+									By Hamish McKenzie
+								December 13, 2013
+			
+									By Carmel DeAmicis
+								December 13, 2013
+			
+									By Cale Guthrie Weissman
+								December 13, 2013
+			
+									By David Holmes
+								December 13, 2013
+			
+									By Erin Griffith
+								December 13, 2013
+			
+									By Hamish McKenzie
+								December 13, 2013
+			Pando DailyPandoMonthlyVideoPandoDigestAboutShare on FacebookShare on TwitterShare on LinkedInShare on Google+Google’s for-profit surveillance problemYasha Levinegovernment surveillance reformdescribedcontain his gleetech reporters$2 per gigabytepotential for privacy abuseexplained at the timeunderlying technologyeven tonetwopatentsinvestigaterefusedwindingShare on FacebookShare on TwitterShare on LinkedInShare on Google+
+					Twitter may be creating an edit feature				The Desk
+					Google at work on smart thermostat				The Verge
+					Google acquires Big Dog and Cheetah				Reuters
+					Chinese policy takes a bite out of bitcoin bubble				Michael Carney
+					Oregon man gets prison time for Facebook fraud				Reuters
+					Pact raises $1.5 million				AllThingsD
+					Facebook rolls out Donate button. “Gee thanks,” sigh charities				Carmel DeAmicis
+					Yahoo will be livestreaming the Olympics				TheNextWeb
+					Amazon buys Gopago				TechCrunch
+					When video games and philosophy collide				Cale Guthrie Weissman
+					A blog post about Nothing: A block of wood to remind us of over-consumption				Nathaniel Mott
+					Report: North Korea deletes 350k articles from state-run site				NKNewsBetabeat
+					UK police to bring charges over abusive tweets				AP via ABC News
+					Upcycling industry takes a bite out of national waste stream				Chris Long
+					Sprint brings LTE to 70 new markets				Verge
+					Norway says bitcoin isn’t a legit currency, but it is taxable				Marketwatch
+					Google poaches top engineer from Microsoft				AllThingsD
+					Judge rules NSA phone spying likely unconstitutional				Guardian
+					Wake up, Glasshole: This nerdtastic device is like digital smelling salts				Carmel DeAmicis
+					Intel acquires Mindspeed Technologies				AllThingsD
+					Humble Bundle donates $1.5M to healthcare platform Watsi				The Next Web
+					Viggle acquires Wetpaint				AllThingsD
+					Retargeted ads want to know you better, and they will				James Robinson
+					Beyoncé breaks iTunes record				The Verge — Patch's COO Leigh Zarelli Lewis, via a leaked memo referring to recent reports that Patch is shutting down
+					Chinese policy takes a bite out of bitcoin bubble				Michael Carney
+					Facebook rolls out Donate button. “Gee thanks,” sigh charities				Carmel DeAmicis
+					When video games and philosophy collide				Cale Guthrie Weissman
+					A blog post about Nothing: A block of wood to remind us of over-consumption				Nathaniel Mott
+					Upcycling industry takes a bite out of national waste stream				Chris Long
+					Wake up, Glasshole: This nerdtastic device is like digital smelling salts				Carmel DeAmicis
+					Retargeted ads want to know you better, and they will				James Robinson
+					Google’s for-profit surveillance problem				Yasha Levine
+					SmartThings peels back the app curtain to show our connected home future				Nathaniel Mott
+					Bitcoin has a dark side: its carbon footprint				Michael Carney
+					Labor and the Information Economy: Which side are you on, Ed?				David Sirota
+					Meet the latest subscription ebooks service: Entitle				Hamish McKenzie
+					Discount commerce done right: quiet NYC startup NoMoreRack will top $325 million in sales this year				Erin Griffith
+					How to use much-hated push notifications to build loyalty				Hugh Reynolds
+					Team Omidyar, World Police: eBay puts user data on a “silver platter” for law enforcement				Mark Ames
+					Knowing you’re being spied on is one thing. Being able to do something about it is something else				Nathaniel Mott
+					Meal kits are fine and all, but Feast wants to turn you into a cook for life				Erin Griffith
+					How one teacher is using Google Glass to change her classroom				Carmel DeAmicis
+					How to decide whether AngelList syndication is right for you				Ed Roman
+					Founders Fund pumps $7M into super-resolution startup that could combat cancer				Hamish McKenzie
+					The answer to Lyft and Uber's scaling woes				Carmel DeAmicis
+					When emojis become art				Cale Guthrie Weissman
+					From Google Glass to Snowfalling: What will journalism look like in 2014?				David Holmes
+					Nas and his manager have invested in 40 startups, and they’re just getting started				Erin Griffith
+					There will be blood: WeChat’s payments prowess makes it a target for Alibaba				Hamish McKenzieView More UpdatesEducation channel creativeLIVE goes 24-7, because apparently there’s a demand for thatJulian Assange predicted bitcoin’s recent rise — and its problems — in 2011Anti-surveillance petition out-does the Death Star. White House must now respondWhoops: HootSuite sends recruiting email to competitor’s CEOWhile Uber stages celebrity rides, Lyft wins with a full-on ten minute CoCo adHow we forecast future technologiesWhen competitors won’t sell, Zuckerberg calls the man who did: Kevin SystromLet’s face it: Sriracha isn’t that goodA Kleiner addendum: What actually matters in venture capitalThe War Nerd: United Drones of CongoSorry, Instagram: Kik, now at 100M users, shows how a platform trumps messagingYounity unveils ephemeral file sharing, eliminates the need to revoke permissionsWaywire’s new face looks a lot more like Robert Scoble than Cory BookerWhat swimming the English Channel taught me about startupsKnowing you’re being spied on is one thing. Being able to do something about it is something elseMeal kits are fine and all, but Feast wants to turn you into a cook for lifeHow one teacher is using Google Glass to change her classroomHow to decide whether AngelList syndication is right for youFounders Fund pumps $7M into super-resolution startup that could combat cancerThis stealth company could be the answer to Lyft and Uber’s scaling woesWhen emojis become artFrom Google Glass to Snowfalling: What will journalism look like in 2014?Nas and his manager have invested in 40 startups, and they’re just getting startedThere will be blood: WeChat’s payments prowess makes it a target for AlibabaDavid Sacks’ new real estate venture aims to give Pasadena its startup mojo backHow is Google still the luddite’s address bar?Team Omidyar, World Police: eBay puts user data on a “silver platter” for law enforcementHow to use much-hated push notifications to build loyaltyChina’s moves against bitcoin won’t be fatal, but it’s more than a flesh woundFacebook rolls out Donate button. “Gee thanks,” sigh charitiesWhen video games and philosophy collideA blog post about Nothing: A block of wood to remind us of over-consumptionUpcycling industry takes a bite out of national waste streamWake up, Glasshole: This nerdtastic device is like digital smelling saltsRetargeted ads want to know you better, and they willGoogle’s for-profit surveillance problemSmartThings peels back the app curtain to show our connected home futureBitcoin has a dark side: its carbon footprintLabor and the Information Economy: Which side are you on, Ed?Meet the latest subscription ebooks service: EntitleDiscount commerce done right: quiet NYC startup NoMoreRack will top $325 million in sales this yearPandoMonthlyVideoPandoDigestAboutPandoDailyContactFacebookTwitterWordPress.com VIP
